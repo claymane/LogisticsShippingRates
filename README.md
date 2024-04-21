@@ -1,13 +1,13 @@
-Please consider the below factors while contributing
+Please consider the below factors while contributing\n
 Code Style:
-Maintain a consistent code style for readability.
+Maintain a consistent code style for readability.\n
 Documentation:
-Ensure well-documented code for effective collaboration.
+Ensure well-documented code for effective collaboration.\n
 Testing:
-Thoroughly test your changes before submitting a pull request.
+Thoroughly test your changes before submitting a pull request.\n
 Issue Tracker:
-Check the Issue Tracker for tasks.
+Check the Issue Tracker for tasks.\n
 Code Review:
-All contributions undergo a code review process.
+All contributions undergo a code review process.\n
 Licensing:
 Contributions are licensed.
